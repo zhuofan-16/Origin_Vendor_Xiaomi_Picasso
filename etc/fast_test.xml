@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testlist>
+    <testitem>
+        <id>63</id>
+        <testname>检测手机是否无SIM卡</testname>
+    </testitem>
+    <testitem>
+        <id>48</id>
+        <testname>加速度感应器测试</testname>
+    </testitem>
+    <testitem>
+        <id>49</id>
+        <testname>陀螺仪感应器测试</testname>
+    </testitem>
+    <testitem>
+        <id>51</id>
+        <testname>磁场感应器测试</testname>
+    </testitem>
+    <testitem>
+        <id>50</id>
+        <testname>光线感应器测试</testname>
+    </testitem>
+    <testitem>
+        <id>53</id>
+        <testname>电池测试</testname>
+    </testitem>
+    <testitem>
+        <id>57</id>
+        <testname>Depth 相机测试</testname>
+        <addtionalparams>camera_id_depth:25</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>58</id>
+        <testname>Wide相机测试</testname>
+        <addtionalparams>camera_id_wide:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>60</id>
+        <testname>Ultra 相机测试</testname>
+        <addtionalparams>camera_id_ultra:21</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>59</id>
+        <testname>Macro 相机测试</testname>
+        <addtionalparams>camera_id_macro:22</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>61</id>
+        <testname>前置相机测试</testname>
+        <addtionalparams>camera_id_front:1</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>99</id>
+        <testname>FrontAux 相机测试</testname>
+        <addtionalparams>camera_id_front_aux:40</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>54</id>
+        <testname>GPS测试</testname>
+    </testitem>
+    <testitem>
+        <id>52</id>
+        <testname>指纹传感器测试</testname>
+    </testitem>
+</testlist>

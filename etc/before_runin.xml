@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testlist>
+    <testitem>
+        <id>1</id>
+        <testname>版本信息测试</testname>
+    </testitem>
+    <testitem>
+        <id>7</id>
+        <testname>LED灯测试</testname>
+        <addtionalparams>power_light_test:false</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>42</id>
+        <testname>SIM卡测试</testname>
+    </testitem>
+    <testitem>
+        <id>45</id>
+        <testname>按键测试</testname>
+    </testitem>
+    <testitem>
+        <id>101</id>
+        <testname>屏幕显示测试</testname>
+    </testitem>
+    <testitem>
+        <id>66</id>
+        <testname>FM测试</testname>
+    </testitem>
+　　<testitem>
+        <id>78</id>
+        <testname>防烧电路测试</testname>
+    </testitem>
+    <testitem>
+        <id>76</id>
+        <testname>USB_PD充电器测试</testname>
+    </testitem>
+</testlist>
+
