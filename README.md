@@ -1,4 +1,4 @@
-# This Tree is based on MIUI 20.8.13 | 
+# This Tree is based on MIUI 21.2.3 | Android 11 安卓 11 
 ## Modified by ZhuoFan-16 寒词
 with the assistances of @lixubo2006 (博）, @wise and @Slmie
 
@@ -10,13 +10,13 @@ Bluetooth 蓝牙
 
 Notch 挖空
 
+Sound 声音
+
 # To be done 待修复:
 
 Camera 相机(To be tested 不确定可不可以)
 
 Fingerprint 指纹
-
-Sound 声音
 
 Wifi 
 
