@@ -27,8 +27,11 @@ Fingerprint 指纹
 NFC
 
 
+
 # Screenshot 
 
-# If you have soluction to these bugs ,please contact me :)
+
+
+If you have soluction to these bugs ,please contact me :)
 
 
