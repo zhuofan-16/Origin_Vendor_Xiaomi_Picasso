@@ -18,9 +18,9 @@ Camera 相机(To be tested 不确定可不可以)
 
 Fingerprint 指纹
 
-Wifi 
+Wifi (To be tested 不确定可不可以)
 
-Hotspot 热点
+Hotspot 热点 (To be tested 不确定可不可以)
 
 # Not working and may not be fixed 不能用并且不会修:
 
