@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testlist>
+    <testitem>
+        <id>1</id>
+        <testname>版本信息测试</testname>
+    </testitem>
+    <testitem>
+        <id>4</id>
+        <testname>震动测试</testname>
+    </testitem>
+    <testitem>
+        <id>7</id>
+        <testname>LED灯测试</testname>
+        <addtionalparams>power_light_test:false</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>8</id>
+        <testname>触摸屏测试</testname>
+    </testitem>
+    <testitem>
+        <id>101</id>
+        <testname>屏幕显示测试</testname>
+    </testitem>
+    <testitem>
+        <id>0037</id>
+        <testname>Front 相机测试</testname>
+        <addtionalparams>camera_id_front:1,camera_test_type:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>0036</id>
+        <testname>Wide主相机测试</testname>
+        <addtionalparams>camera_id_wide:0,camera_test_type:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>0090</id>
+        <testname>Depth 相机测试</testname>
+        <addtionalparams>camera_id_depth:25,camera_test_type:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>0087</id>
+        <testname>Ultra 相机测试</testname>
+        <addtionalparams>camera_id_ultra:21,camera_test_type:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>0089</id>
+        <testname>Macro 相机测试</testname>
+        <addtionalparams>camera_id_macro:22,camera_test_type:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>0091</id>
+        <testname>Bokeh 相机测试</testname>
+        <addtionalparams>camera_id_bokeh:61,camera_test_type:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>0092</id>
+        <testname>FrontAux 相机测试</testname>
+        <addtionalparams>camera_id_front_aux:40,camera_test_type:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>0093</id>
+        <testname>FrontBokeh 相机测试</testname>
+        <addtionalparams>camera_id_front_bokeh:81,camera_test_type:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>32</id>
+        <testname>指纹传感器测试</testname>
+    </testitem>
+    <testitem>
+        <id>33</id>
+        <testname>指纹录入测试</testname>
+    </testitem>
+    <testitem>
+        <id>31</id>
+        <testname>Sar Sensor校准与数据采集测试</testname>
+    </testitem>
+</testlist>
+
