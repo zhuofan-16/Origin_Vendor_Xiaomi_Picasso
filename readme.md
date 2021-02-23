@@ -18,9 +18,12 @@ Bluetooth 蓝牙
 
 Notch 挖空
 
+Gesture 手势
+
+
 # To be done 待修复:
 
-Camera 相机
+Camera 相机 （正在修复中Fixing）
 
 Fingerprint 指纹
 
